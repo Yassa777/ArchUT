@@ -36,9 +36,7 @@ export default function Footer() {
             <h5 className="footer-heading">Connect</h5>
             <ul className="footer-links">
               <li><Link href="/contact">Contact</Link></li>
-              <li><a href="#" target="_blank" rel="noopener noreferrer">Instagram</a></li>
-              <li><a href="#" target="_blank" rel="noopener noreferrer">LinkedIn</a></li>
-              <li><a href="#" target="_blank" rel="noopener noreferrer">Behance</a></li>
+              <li><a href="https://www.instagram.com/archutvisualizations?igsh=MWlzOTkyNmY5dmZzdw==" target="_blank" rel="noopener noreferrer">Instagram</a></li>
             </ul>
           </div>
         </div>
